@@ -1,0 +1,20 @@
+********************************************************************************
+                                                                                  
+                                                          :::      ::::::::     
+     versionControl.txt                                 :+:      :+:    :+:     
+                                                      +:+ +:+         +:+       
+     By: jkellehe <jkellehe@student.42.us.org>      +#+  +:+       +#+          
+                                                  +#+#+#+#+#+   +#+             
+     Created: 2018/09/27 09:19:27 by jkellehe          #+#    #+#               
+     Updated: 2018/09/27 09:24:35 by jkellehe         ###   ########.fr         
+
+                                                                                
+********************************************************************************
+
+
+(a) When there are issues, this will help track back to before the issue existed.  
+
+(b) When a large change is made, this would be a reasonable time to save locally.   It seems that you would not want to push this to the repository unless it was a very very good large change. 
+
+(c) These commit messages allow you to know what you did, and just maybe, why you did it. 
+
